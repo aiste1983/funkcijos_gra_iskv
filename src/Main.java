@@ -4,7 +4,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println("................1........................");
+        System.out.println("................1.................=).......");
         int a = 8;
         int b = 10;
         sum(a, b);
